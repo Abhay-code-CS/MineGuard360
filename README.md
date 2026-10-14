@@ -83,3 +83,9 @@ This is a student prototype. Issues and pull requests that improve clarity, reli
 ## License
 
 The project currently declares the MIT license in `package.json`. Add a `LICENSE` file before presenting the repository as formally licensed under MIT.
+
+## 🚀 Live Prototype
+
+🔗 **Try MineGuard 360:** https://mineguard-8xaxr8k8.manus.space
+
+Explore our working prototype for smarter underground mine safety and hazard monitoring.
