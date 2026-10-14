@@ -86,6 +86,6 @@ The project currently declares the MIT license in `package.json`. Add a `LICENSE
 
 ## 🚀 Live Prototype
 
-🔗 **Try MineGuard 360:** https://mineguard-8xaxr8k8.manus.space
+[**🔗 Click Here to Explore MineGuard 360**](https://mineguard-8xaxr8k8.manus.space)
 
 Explore our working prototype for smarter underground mine safety and hazard monitoring.
